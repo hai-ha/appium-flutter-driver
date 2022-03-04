@@ -1,7 +1,7 @@
 import org.gradle.jvm.tasks.Jar
 
 group = "pro.truongsinh"
-version = "0.0.5-forked-SNAPSHOT"
+version = "1.0.2-forked-SNAPSHOT"
 
 plugins {
     id("kotlinx-serialization") version "1.3.40"
